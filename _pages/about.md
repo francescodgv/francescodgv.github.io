@@ -15,4 +15,15 @@ My currecnt lines of research regard: (i) leveraging the graph structure via loc
 
 ## News
 
+#### 2022
+
+- August: I will give a long talk at the [Hammers and Nails 2022 Workshop](https://www.weizmann.ac.il/conferences/SRitp/Aug2022/) in Tel Aviv
+- July: I will be a lecturer at the [First Italian School in Geometric Deep Learning](https://eapls.org/items/4007/)
+- July: I have been a mentor at the [LOGML22](https://www.logml.ai/) - our project is about graph-rewiring using geometric exploration policies
+- June: I have reviewed for NeurIPS 2022
+- May: I have coauthored a [blogpost](https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6) with Michael Bronstein and Cristing Bodnar on a recent about cellular sheaf theory for tackling heterophily in GNNs
+- April: Our work on understanding over-squashing in GNNs through graph curvature has got an Outstanding Paper Honorable Mention at ICLR 2022!
+- April: Aleksa Gordić made a [great video](https://youtu.be/zpDdvI95igc) about our [paper](https://openreview.net/pdf?id=7UmjRGzp-A) on bottlenecks and over-squashing in GNNs. This is highly recommended to anyone interested in understanding our work in quite some detail!
+- March: I gave a talk at the Dagsthul seminar [Graph Embeddings: Theory meets Practice](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22132)
+- January: I have been invited to write my opinion on future perspetives of GNNs in a [blogpost](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc) authored by Michael Bronstein and Petar Veličković, featuring many prominent researchers in the field.
 
