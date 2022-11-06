@@ -13,7 +13,7 @@ Praise the sun! I am currently at Twitter Cortex as a postdoctoral ML Researcher
 
 My current lines of research regard: (i) leveraging the graph structure via local tools as curvature to investigate how information flows inside a Message Passing Neural Network - our [first step](https://openreview.net/pdf?id=7UmjRGzp-A) in this direction got an [ICLR honorable mention](https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/)! - and propose principled rewiring approaches inspired by geometric flows. (ii) Study Graph Neural Networks as multi-particles dynamics - [our recent work](https://arxiv.org/abs/2206.10991) explains how the common "channel-mixing" module can be interpreted as a pairwise potential and how by interacting with the graph Laplacian spectrum it learns to generate attractive or repulsive forces via its positive and neagtive eigenvalues respectively. 
 
-**Contact**: fdigiovanni (at) twitter (dot) com
+**Contact**: francesco.dgv94 (at) gmail (dot) com
 
 ## News
 
