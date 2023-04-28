@@ -13,12 +13,13 @@ Praise the sun! I am currently a Research Associate at the University of Cambrid
 
 My current lines of research include: (i) Understanding how information flows in Graph Neural Networks and the associated phenomenon of over-squashing. I characterize the role played by the graph structure in the propagation of messages across "distant" nodes via local quantities such as curvature and global quantities such as access and commute time - our [first step](https://openreview.net/pdf?id=7UmjRGzp-A) in this direction got an [ICLR honorable mention](https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/). A [more recent work](https://arxiv.org/abs/2302.02941) generalizes our analysis and proves that over-squashing occurs among nodes at high effective resistance. (ii) Investigating how Graph Neural Networks "use" the underlying graph topology and to what extent we need to rely on the same input graph to exchange messages across layers. This direction falls into the field of graph-rewiring, which I believe to be a promising area to analyse limitations of GNNs both in terms of expressivity and over-squashing, and an approach that has already been taken by more expressive GNNs -- albeit a little indirectly. Understanding the role played by the input topology to propagate information and whether we can in fact decouple the computational graph from the latter is also key to fully assess the potential capabilities of graph transformers, and more generally to develop new frameworks that are both expressive and more resilent to issues arising from the underlying graph topology. (iii) Studying Graph Neural Networks as multi-particles dynamics - [our work](https://arxiv.org/abs/2206.10991) explains how the common "channel-mixing" module can be interpreted as a pairwise potential and how by interacting with the graph Laplacian spectrum it learns to generate attractive or repulsive forces via its positive and neagtive eigenvalues respectively. 
 
-**Contact**: fd405 (at) cam (dot) cac (dot) uk
+**Contact**: fd405 (at) cam (dot) ac (dot) uk
 
 ## News
 
 #### 2023
 
+- April: Our [new theoretical work](https://arxiv.org/abs/2302.02941) on over-squashing got accepted at ICML23
 - March: reviewer for ICML23
 - February: [new paper](https://arxiv.org/abs/2302.02941) out!
 
