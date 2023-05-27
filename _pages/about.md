@@ -19,6 +19,8 @@ My current lines of research include: (i) Understanding how information flows in
 
 #### 2023
 
+- June 2023: I'll be giving a talk in Berlin at the CECAM/Psi-k conference 
+- April: Our [new framework](https://arxiv.org/abs/2305.08018) for message-passing with delay got accepted at ICML23
 - April: Our [new theoretical work](https://arxiv.org/abs/2302.02941) on over-squashing got accepted at ICML23
 - March: reviewer for ICML23
 - February: [new paper](https://arxiv.org/abs/2302.02941) out!
