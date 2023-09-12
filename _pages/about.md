@@ -20,13 +20,13 @@ My current lines of research include: (i) Understanding how information flows in
 #### 2023
 
 - August 2023: Keynote speaker at the Maths for GDL workshop, ICIAM 
-- August 2023: Our work on understanding graph-convolutions through energies got accepted at TMLR
+- August 2023: [Our work](https://arxiv.org/abs/2305.08018) on understanding graph-convolutions through energies got accepted at TMLR
 - June 2023: [New paper out](https://arxiv.org/abs/2306.03589) on characterising expressive power of message passing models through their mixing abilities
-- June 2023: I'll be giving a talk in Berlin at the CECAM/Psi-k conference 
+- June 2023: Invited speaker at the CECAM/Psi-k conference on `Bridging length scales with machine learning: from wavefunctions
+to thermodynamics’  
 - April: Our [new framework](https://arxiv.org/abs/2305.08018) for message-passing with delay got accepted at ICML23
 - April: Our [new theoretical work](https://arxiv.org/abs/2302.02941) on over-squashing got accepted at ICML23
 - March: reviewer for ICML23
-- February: [new paper](https://arxiv.org/abs/2302.02941) out!
 
 #### 2022
 
